@@ -1,0 +1,4 @@
+*.md
+**.yaml
+**/greetings.yml
+!**.yml
